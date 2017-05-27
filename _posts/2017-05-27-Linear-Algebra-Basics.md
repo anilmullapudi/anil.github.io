@@ -66,7 +66,7 @@ According to singular matrix definition, matrix A do not have inverse. That is i
 
 
 <p>
-<b>SVD (Singular value decomposition) :</p>  SVD is a function that generates the Eigen vectors, Eigen Values(diagonal matrix) and other rotation matrix.
+<b>SVD (Singular value decomposition) :</b>  SVD is a function that generates the Eigen vectors, Eigen Values(diagonal matrix) and other rotation matrix.
 
 If a vector 'v' is multiplied with matrix 'M', then a new vector 'u' will be formed.   However, the new vector 'u' will rotate and translate from the original vector 'v'. This entire process can be shown in the following equation.
                                                        v * M = u, alpha
