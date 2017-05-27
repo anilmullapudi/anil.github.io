@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "anilmullapudi, Launches Site"
+title: "anilmullapudi, Linear Algebra Basics"
 date: 2017-05-27
 ---
 
